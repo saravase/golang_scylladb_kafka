@@ -1,8 +1,8 @@
 package reporting
 
 import (
-	"golang_scylladb_kafka/productstore"
-	"golang_scylladb_kafka/uuid"
+	"github.com/saravase/golang_scylladb_kafka/productstore"
+	"github.com/saravase/golang_scylladb_kafka/uuid"
 )
 
 type ProductManager struct {
